@@ -1,0 +1,5 @@
+step,details
+Original dataset,Loaded 23377 rows and 8 columns
+Keep rows with ISO codes,Kept 17265 rows with non-missing ISO codes
+Keep years 2015–2024,Kept 2179 rows for years 2015–2024
+Check missing values,Measured missing-value percentages; did not automatically fill missing values
